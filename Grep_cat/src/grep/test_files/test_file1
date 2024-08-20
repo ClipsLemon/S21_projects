@@ -1,0 +1,12 @@
+~~~TEST FILE N1~~~
+TEST TEXT:
+ONE EMPTY LINE:
+AND ANOTHER ONE TEST TEXT
+T
+Three empty lines:
+
+
+
+Tab |1->	||2->		|
+String with space: 1 2  3   4    ;
+test_file1
